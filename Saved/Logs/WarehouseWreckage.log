@@ -4003,3 +4003,19 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.05.07-22.49.26:651][402]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
 [2023.05.07-22.49.27:641][471]BlueprintLog: New page: Compilar BP_Projectile
 [2023.05.07-22.49.27:802][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.05.07-22.54.42:379][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.05.07-22.54.42:419][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/My_Minumal_Default_Auto7
+[2023.05.07-22.54.42:419][ 98]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/My_Minumal_Default_Auto77F3861174953E15778E00DAA6F2E182B.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/Autosaves/Game/Maps/My_Minumal_Default_Auto7.umap'
+[2023.05.07-22.54.42:426][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/My_Minumal_Default' took 0.137
+[2023.05.07-22.54.42:426][ 98]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.137
+[2023.05.07-22.55.27:926][574]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.07-22.55.27:990][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/My_Minumal_Default" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.07-22.55.28:064][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.07-22.55.28:094][574]LogSavePackage: Moving output files for package: /Game/Maps/My_Minumal_Default
+[2023.05.07-22.55.28:094][574]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/My_Minumal_Default32D5751E4EA437A44FB1C09F56C5BB75.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap'
+[2023.05.07-22.55.28:102][574]LogFileHelpers: Saving map 'My_Minumal_Default' took 0.113
+[2023.05.07-22.55.28:112][574]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 5.62 sec)
+[2023.05.07-22.55.28:131][574]AssetCheck: New page: Asset Save: My_Minumal_Default
+[2023.05.07-22.55.28:131][574]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/My_Minumal_Default.My_Minumal_Default
+[2023.05.07-22.55.28:155][577]BlueprintLog: New page: Compilar My_Minumal_Default
+[2023.05.07-22.55.28:264][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
