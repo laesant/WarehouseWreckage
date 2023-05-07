@@ -2868,3 +2868,296 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.05.07-18.13.18:457][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.05.07-18.13.18:461][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
 [2023.05.07-18.13.18:526][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.07-18.18.35:242][ 80]LogDerivedDataCache: C:/Users/laeni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.202 and deleted 0 files with total size 0 MiB. Scanned 8510 files in 8139 folders with total size 113 MiB.
+[2023.05.07-18.23.02:022][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.05.07-18.23.02:049][585]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/My_Minumal_Default_Auto3
+[2023.05.07-18.23.02:049][585]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/My_Minumal_Default_Auto391590046439E343B2BF01B8E1EB3F55C.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/Autosaves/Game/Maps/My_Minumal_Default_Auto3.umap'
+[2023.05.07-18.23.02:052][585]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/My_Minumal_Default' took 0.103
+[2023.05.07-18.23.02:052][585]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.103
+[2023.05.07-18.24.50:752][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.05.07-18.24.50:752][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.05.07-18.24.50:752][864]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.StaticMeshActor_3
+[2023.05.07-18.24.50:754][864]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.StaticMeshActor_3
+[2023.05.07-18.24.51:610][897]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.05.07-18.24.51:610][897]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.05.07-18.24.51:614][897]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.StaticMeshActor_4
+[2023.05.07-18.24.51:614][897]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.StaticMeshActor_4
+[2023.05.07-18.24.53:551][982]LogShaderCompilers: Display: ================================================
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: Total job queries 500, among them cache hits 14 (2.80%)
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: Tracking 484 distinct input hashes that result in 316 distinct outputs (65.29%)
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: RAM used: 3.85 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.47%
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: Shaders Compiled: 395
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: Jobs assigned 397, completed 395 (99.50%)
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: Average time worker was idle: 45.85 s
+[2023.05.07-18.24.53:552][982]LogShaderCompilers: Display: Time job spent in pending queue: average 113.36 s, longest 237.68 s
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Job execution time: average 9.28 s, max 66.29 s
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Job life time (pending + execution): average 123.21 s, max 250.11
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 282.00 s
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Jobs were issued in 332 batches (only local compilation was used), average 1.20 jobs/batch
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Average processing rate: 1.40 jobs/sec
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Total thread time: 967.92 s
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Total thread preprocess time: 48.75 s
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Percentage time preprocessing: 5.04%
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Effective parallelization: 3.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.07-18.24.53:553][982]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.07-18.24.53:554][982]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 6.28 sec, max 8.83 sec, min 3.73 sec)
+[2023.05.07-18.24.53:554][982]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    2 times, average 6.23 sec, max 9.29 sec, min 3.17 sec)
+[2023.05.07-18.24.53:554][982]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 5.74 sec, max 12.21 sec, min 2.62 sec)
+[2023.05.07-18.24.53:554][982]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 5.59 sec, max 9.51 sec, min 2.15 sec)
+[2023.05.07-18.24.53:554][982]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 5.28 sec, max 10.07 sec, min 2.28 sec)
+[2023.05.07-18.24.53:555][982]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.07-18.24.53:555][982]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 12.29% of total time (compiled   46 times, average 2.59 sec, max 8.47 sec, min 1.21 sec)
+[2023.05.07-18.24.53:555][982]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 11.06% of total time (compiled   43 times, average 2.49 sec, max 5.05 sec, min 1.29 sec)
+[2023.05.07-18.24.53:555][982]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 10.89% of total time (compiled   46 times, average 2.29 sec, max 4.61 sec, min 1.12 sec)
+[2023.05.07-18.24.53:555][982]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 10.11% of total time (compiled   45 times, average 2.17 sec, max 7.26 sec, min 1.10 sec)
+[2023.05.07-18.24.53:555][982]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.91% of total time (compiled   49 times, average 1.96 sec, max 3.40 sec, min 1.08 sec)
+[2023.05.07-18.24.53:555][982]LogShaderCompilers: Display: ================================================
+[2023.05.07-18.25.28:980][ 19]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Wood_Oak.M_Wood_Oak
+[2023.05.07-18.25.29:160][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.07-18.25.29:254][ 19]LogStaticMesh: Display: Criando malha estática Sphere_inversenormals...
+[2023.05.07-18.25.29:338][ 19]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.05.07-18.25.29:345][ 19]LogStaticMesh: Built static mesh [0.09s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2023.05.07-18.25.29:437][ 19]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.05.07-18.25.29:480][ 19]LogStaticMesh: Display: Criando malha estática Floor_Mesh...
+[2023.05.07-18.25.29:484][ 19]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2023.05.07-18.25.29:890][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.07-18.25.29:890][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.05.07-18.25.29:890][ 19]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.07-18.25.29:890][ 19]MaterialEditorStats: Shader Count: 0
+[2023.05.07-18.25.29:936][ 19]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.05.07-18.25.30:315][ 21]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.07-18.25.30:315][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.05.07-18.25.30:315][ 21]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.07-18.25.30:315][ 21]MaterialEditorStats: Shader Count: 2
+[2023.05.07-18.25.31:075][ 74]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.379 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.05.07-18.25.31:578][109]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 3 triangles, Floor_Mesh
+[2023.05.07-18.25.32:394][155]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.07-18.25.32:394][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.07-18.27.18:415][614]Cmd: TRANSACTION UNDO
+[2023.05.07-18.27.18:415][614]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.07-18.27.37:202][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.07-18.27.37:212][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.07-18.27.37:212][701]PIE: New page: Sessão de PIE : My_Minumal_Default (May 7, 2023, 12:27:37 PM)
+[2023.05.07-18.27.37:212][701]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_My_Minumal_Default
+[2023.05.07-18.27.37:218][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005705s)
+[2023.05.07-18.27.37:218][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/My_Minumal_Default.My_Minumal_Default to /Game/Maps/UEDPIE_0_My_Minumal_Default.My_Minumal_Default (0.005759s)
+[2023.05.07-18.27.37:218][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.07-18.27.37:219][701]LogAIModule: Creating AISystem for world My_Minumal_Default
+[2023.05.07-18.27.37:219][701]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2023.05.07-18.27.37:308][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2023.05.07-18.27.37:315][701]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.05.07-18.27.37:316][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.07-18.27.37:316][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.07-18.27.37:316][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.07-18.27.37:316][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.07-18.27.37:316][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.07-18.27.37:316][701]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.07-18.27.37:316][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.07-18.27.37:316][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.07-18.27.37:316][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.07-18.27.37:316][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.07-18.27.37:316][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.07-18.27.37:320][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.07-18.27.37:353][701]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2023.05.07-18.27.37:353][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.07-18.27.37:354][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.07-18.27.37:354][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.07-18.27.37:355][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.05.07-18.27.37:355][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.05.07-18.27.37:358][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.05.07-18.27.37:358][701]LogInit: FAudioDevice initialized.
+[2023.05.07-18.27.37:358][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.05.07-18.27.37:358][701]LogAudio: Display: Audio Device (ID: 22) registered with world 'My_Minumal_Default'.
+[2023.05.07-18.27.37:362][701]LogLoad: Game class is 'GameModeBase'
+[2023.05.07-18.27.37:364][701]LogWorld: Bringing World /Game/Maps/UEDPIE_0_My_Minumal_Default.My_Minumal_Default up for play (max tick rate 0) at 2023.05.07-15.27.37
+[2023.05.07-18.27.37:364][701]LogWorld: Bringing up level for play took: 0.002180
+[2023.05.07-18.27.37:369][701]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.05.07-18.27.37:371][701]LogBlueprintUserMessages: [My_Minumal_Default_C_13] Welcome to Warehouse Wreckage!
+[2023.05.07-18.27.37:371][701]LogBlueprintUserMessages: [My_Minumal_Default_C_13] Hello
+[2023.05.07-18.27.37:371][701]LogBlueprintUserMessages: [My_Minumal_Default_C_13] Cube.StaticMeshComponent0 Cube
+[2023.05.07-18.27.37:371][701]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.37:371][701]PIE: Servidor conectado
+[2023.05.07-18.27.37:373][701]PIE: Play in editor total start time 0.163 seconds.
+[2023.05.07-18.27.40:316][938]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.40:577][963]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.41:107][ 17]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.41:984][100]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.42:208][122]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.43:010][198]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.43:250][217]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.43:445][237]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.43:642][257]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.43:840][279]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.44:019][298]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.44:213][318]LogBlueprintUserMessages: [My_Minumal_Default_C_13] 177.827927
+[2023.05.07-18.27.45:803][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.07-18.27.45:803][471]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_My_Minumal_Default
+[2023.05.07-18.27.45:803][471]LogWorld: UWorld::CleanupWorld for My_Minumal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.07-18.27.45:803][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.07-18.27.45:808][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.07-18.27.45:818][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.07-18.27.45:878][471]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.07-18.27.45:879][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.07-18.27.45:880][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.05.07-18.27.45:887][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.07-18.27.45:891][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.05.07-18.27.45:956][472]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.05.07-18.27.59:228][201]LogShaderCompilers: Display: ================================================
+[2023.05.07-18.27.59:228][201]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Total job queries 612, among them cache hits 18 (2.94%)
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Tracking 589 distinct input hashes that result in 371 distinct outputs (62.99%)
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: RAM used: 4.61 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.56%
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Shaders Compiled: 500
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Jobs assigned 504, completed 500 (99.21%)
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Average time worker was idle: 35.75 s
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Time job spent in pending queue: average 91.21 s, longest 237.68 s
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Job execution time: average 7.79 s, max 66.29 s
+[2023.05.07-18.27.59:229][201]LogShaderCompilers: Display: Job life time (pending + execution): average 99.72 s, max 250.11
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 343.80 s
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Jobs were issued in 439 batches (only local compilation was used), average 1.15 jobs/batch
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Average processing rate: 1.45 jobs/sec
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Total thread time: 1173.84 s
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Total thread preprocess time: 60.31 s
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Percentage time preprocessing: 5.14%
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Effective parallelization: 3.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 6.28 sec, max 8.83 sec, min 3.73 sec)
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    2 times, average 6.23 sec, max 9.29 sec, min 3.17 sec)
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 5.74 sec, max 12.21 sec, min 2.62 sec)
+[2023.05.07-18.27.59:230][201]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 5.59 sec, max 9.51 sec, min 2.15 sec)
+[2023.05.07-18.27.59:232][201]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 5.28 sec, max 10.07 sec, min 2.28 sec)
+[2023.05.07-18.27.59:232][201]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.07-18.27.59:232][201]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.01% of total time (compiled   61 times, average 2.31 sec, max 9.41 sec, min 1.42 sec)
+[2023.05.07-18.27.59:232][201]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 10.14% of total time (compiled   46 times, average 2.59 sec, max 8.47 sec, min 1.21 sec)
+[2023.05.07-18.27.59:232][201]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.98% of total time (compiled   63 times, average 1.86 sec, max 2.57 sec, min 1.32 sec)
+[2023.05.07-18.27.59:233][201]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.12% of total time (compiled   43 times, average 2.49 sec, max 5.05 sec, min 1.29 sec)
+[2023.05.07-18.27.59:233][201]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 8.98% of total time (compiled   46 times, average 2.29 sec, max 4.61 sec, min 1.12 sec)
+[2023.05.07-18.27.59:233][201]LogShaderCompilers: Display: ================================================
+[2023.05.07-18.28.26:114][745]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.07-18.28.26:115][745]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.07-18.28.26:115][745]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.07-18.29.15:750][745]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.05.07-18.29.15:819][745]LogActorComponent: UnregisterComponent: (/Game/StarterContent/Materials/BP_Projectile.Default__BP_Projectile_C:StaticMeshComponent0) Not registered. Aborting.
+[2023.05.07-18.29.15:911][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.05.07-18.29.15:954][745]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Materials/BP_Projectile.BP_Projectile
+[2023.05.07-18.29.15:954][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.07-18.29.16:829][745]LogStaticMesh: Display: Criando malha estática PhAT_FloorBox...
+[2023.05.07-18.29.16:833][745]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2023.05.07-18.29.17:094][745]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2023.05.07-18.29.19:518][886]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2023.05.07-18.31.05:333][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.07-18.31.05:554][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/BP_Projectile" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/StarterContent/Materials/BP_Projectile.uasset" SILENT=true
+[2023.05.07-18.31.05:615][933]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/BP_Projectile
+[2023.05.07-18.31.05:616][933]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/BP_Projectile4E7051754DFB321BEFB83EB494B72E64.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/StarterContent/Materials/BP_Projectile.uasset'
+[2023.05.07-18.31.05:629][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 2.80 sec)
+[2023.05.07-18.31.05:639][933]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.05.07-18.31.05:639][933]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StarterContent/Materials/BP_Projectile.BP_Projectile
+[2023.05.07-18.31.32:649][592]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:649][592]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:649][592]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile_C' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:649][592]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:649][592]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:649][592]LogMetaData: Removing '/Game/BP_Projectile.BP_Projectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:649][592]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:650][592]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:650][592]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:ReceiveTick' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:650][592]LogMetaData: Removing '/Game/BP_Projectile.SKEL_BP_Projectile_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Materials/BP_Projectile.PackageMetaData'
+[2023.05.07-18.31.32:653][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.07-18.31.32:730][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2023.05.07-18.31.32:752][592]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.05.07-18.31.32:752][592]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/BP_Projectile457FEFEF468AFDAA1641FDAE20C85FC5.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2023.05.07-18.31.32:763][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.91 sec)
+[2023.05.07-18.31.32:917][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.05.07-18.31.32:994][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.05.07-18.31.33:065][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.07-18.31.33:099][592]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.05.07-18.31.33:100][592]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.05.07-18.31.55:739][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2023.05.07-18.31.55:739][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2023.05.07-18.31.55:740][720]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.BP_Projectile_C_1
+[2023.05.07-18.31.55:740][720]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.BP_Projectile_C_1
+[2023.05.07-18.31.56:783][777]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2023.05.07-18.31.56:784][777]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Projectile.BP_Projectile_C
+[2023.05.07-18.31.56:787][777]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.BP_Projectile_C_2
+[2023.05.07-18.31.56:787][777]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Projectile.BP_Projectile as actor: BP_Projectile_C /Game/Maps/My_Minumal_Default.My_Minumal_Default:PersistentLevel.BP_Projectile_C_2
+[2023.05.07-18.33.10:683][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.07-18.33.10:757][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2023.05.07-18.33.10:762][761]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.05.07-18.33.10:763][761]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/BP_ProjectileFC1875C54FB301ACA9985BB2CD5837EE.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2023.05.07-18.33.10:775][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.00 sec)
+[2023.05.07-18.33.10:793][761]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.05.07-18.33.10:793][761]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.05.07-18.33.45:311][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.07-18.33.45:385][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2023.05.07-18.33.45:392][304]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2023.05.07-18.33.45:392][304]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/BP_Projectile83B342FC47B84548C5CEED9A9A090122.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2023.05.07-18.33.45:401][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 3.09 sec)
+[2023.05.07-18.33.45:413][304]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.05.07-18.33.45:413][304]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2023.05.07-18.33.45:652][321]BlueprintLog: New page: Compilar BP_Projectile
+[2023.05.07-18.33.45:807][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.05.07-18.33.49:847][598]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.07-18.33.49:860][598]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.05.07-18.33.49:861][598]LogPlayLevel: [PlayLevel] Compiling My_Minumal_Default before play...
+[2023.05.07-18.33.49:977][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.05.07-18.33.49:980][598]LogPlayLevel: PlayLevel: Blueprint regeneration took 119 ms (1 blueprints)
+[2023.05.07-18.33.49:980][598]PIE: New page: Sessão de PIE : My_Minumal_Default (May 7, 2023, 12:33:49 PM)
+[2023.05.07-18.33.49:980][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_My_Minumal_Default
+[2023.05.07-18.33.49:985][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005783s)
+[2023.05.07-18.33.49:986][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/My_Minumal_Default.My_Minumal_Default to /Game/Maps/UEDPIE_0_My_Minumal_Default.My_Minumal_Default (0.005834s)
+[2023.05.07-18.33.49:986][598]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.07-18.33.49:986][598]LogAIModule: Creating AISystem for world My_Minumal_Default
+[2023.05.07-18.33.49:987][598]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2023.05.07-18.33.50:060][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.05.07-18.33.50:062][598]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.05.07-18.33.50:062][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.07-18.33.50:062][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.07-18.33.50:062][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.07-18.33.50:062][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.07-18.33.50:062][598]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.07-18.33.50:062][598]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.07-18.33.50:062][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.07-18.33.50:062][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.07-18.33.50:063][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.07-18.33.50:063][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.07-18.33.50:063][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.07-18.33.50:066][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.07-18.33.50:097][598]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (High Definition Audio Device)
+[2023.05.07-18.33.50:098][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.07-18.33.50:098][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.07-18.33.50:098][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.07-18.33.50:099][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.05.07-18.33.50:099][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.05.07-18.33.50:102][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.05.07-18.33.50:102][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.05.07-18.33.50:102][598]LogInit: FAudioDevice initialized.
+[2023.05.07-18.33.50:102][598]LogAudio: Display: Audio Device (ID: 23) registered with world 'My_Minumal_Default'.
+[2023.05.07-18.33.50:105][598]LogLoad: Game class is 'GameModeBase'
+[2023.05.07-18.33.50:107][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_My_Minumal_Default.My_Minumal_Default up for play (max tick rate 0) at 2023.05.07-15.33.50
+[2023.05.07-18.33.50:107][598]LogWorld: Bringing up level for play took: 0.001844
+[2023.05.07-18.33.50:110][598]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.05.07-18.33.50:143][598]LogBlueprintUserMessages: [My_Minumal_Default_C_14] Welcome to Warehouse Wreckage!
+[2023.05.07-18.33.50:143][598]LogBlueprintUserMessages: [My_Minumal_Default_C_14] Hello
+[2023.05.07-18.33.50:143][598]LogBlueprintUserMessages: [My_Minumal_Default_C_14] Cube.StaticMeshComponent0 Cube
+[2023.05.07-18.33.50:143][598]LogBlueprintUserMessages: [My_Minumal_Default_C_14] 177.827927
+[2023.05.07-18.33.50:143][598]PIE: Servidor conectado
+[2023.05.07-18.33.50:144][598]PIE: Play in editor total start time 0.288 seconds.
+[2023.05.07-18.34.01:983][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.07-18.34.01:983][646]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_My_Minumal_Default
+[2023.05.07-18.34.01:984][646]LogWorld: UWorld::CleanupWorld for My_Minumal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.07-18.34.01:984][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.07-18.34.01:993][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.07-18.34.02:009][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.07-18.34.02:098][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.07-18.34.02:099][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.07-18.34.02:101][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.05.07-18.34.02:117][646]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2023.05.07-18.34.02:227][647]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.05.07-18.35.25:268][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.05.07-18.35.25:295][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/My_Minumal_Default_Auto4
+[2023.05.07-18.35.25:295][876]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/My_Minumal_Default_Auto40C53C73D4B3E498AC8283C9A356BD2D8.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/Autosaves/Game/Maps/My_Minumal_Default_Auto4.umap'
+[2023.05.07-18.35.25:349][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/My_Minumal_Default' took 0.162
+[2023.05.07-18.35.25:349][876]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.162
