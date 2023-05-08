@@ -4461,3 +4461,98 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.05.07-23.36.01:047][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 255 ms (total: 6.85 sec)
 [2023.05.07-23.36.01:070][699]AssetCheck: New page: Asset Save: My_Minumal_Default
 [2023.05.07-23.36.01:070][699]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/My_Minumal_Default.My_Minumal_Default
+[2023.05.08-00.10.56:239][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-00.10.56:304][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/My_Minumal_Default" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.08-00.10.56:393][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.05.08-00.10.56:425][545]LogSavePackage: Moving output files for package: /Game/Maps/My_Minumal_Default
+[2023.05.08-00.10.56:425][545]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/My_Minumal_Default643BCD314B81732E4B24E89203E325C1.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap'
+[2023.05.08-00.10.56:435][545]LogFileHelpers: Saving map 'My_Minumal_Default' took 0.131
+[2023.05.08-00.10.56:446][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 7.06 sec)
+[2023.05.08-00.10.56:463][545]AssetCheck: New page: Asset Save: My_Minumal_Default
+[2023.05.08-00.10.56:463][545]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/My_Minumal_Default.My_Minumal_Default
+[2023.05.08-00.10.59:267][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.08-00.11.01:884][659]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2023.05.08-00.11.01:905][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-00.11.03:840][659]LogSlate: Window 'Salvar Nível Como' being destroyed
+[2023.05.08-00.11.03:872][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.96 sec (total: 9.02 sec)
+[2023.05.08-00.11.05:705][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-00.11.06:079][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/My_Minumal_Default" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.08-00.11.06:157][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.08-00.11.06:190][722]LogSavePackage: Moving output files for package: /Game/Maps/My_Minumal_Default
+[2023.05.08-00.11.06:190][722]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/My_Minumal_Default7EC4C76740EFCBF6E705F8A529A75512.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap'
+[2023.05.08-00.11.06:200][722]LogFileHelpers: Saving map 'My_Minumal_Default' took 0.122
+[2023.05.08-00.11.06:209][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 503 ms (total: 9.53 sec)
+[2023.05.08-00.11.06:225][722]AssetCheck: New page: Asset Save: My_Minumal_Default
+[2023.05.08-00.11.06:225][722]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/My_Minumal_Default.My_Minumal_Default
+[2023.05.08-00.11.11:459][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.08-00.11.11:520][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/My_Minumal_Default" FILE="../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.08-00.11.11:591][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.08-00.11.11:621][831]LogSavePackage: Moving output files for package: /Game/Maps/My_Minumal_Default
+[2023.05.08-00.11.11:622][831]LogSavePackage: Moving '../../../../../LearnGameDev/Projects/WarehouseWreckage/Saved/My_Minumal_Default85CC666148CFA73FE69002A39A773F9A.tmp' to '../../../../../LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap'
+[2023.05.08-00.11.11:630][831]LogFileHelpers: Saving map 'My_Minumal_Default' took 0.111
+[2023.05.08-00.11.11:640][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 9.71 sec)
+[2023.05.08-00.11.11:658][831]AssetCheck: New page: Asset Save: My_Minumal_Default
+[2023.05.08-00.11.11:658][831]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/My_Minumal_Default.My_Minumal_Default
+[2023.05.08-00.11.11:929][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.08-00.11.17:671][850]LogSlate: Window 'Salvar Conteúdo' being destroyed
+[2023.05.08-00.11.17:682][850]LogStall: Shutdown...
+[2023.05.08-00.11.17:741][850]LogStall: Shutdown complete.
+[2023.05.08-00.11.17:801][850]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.17:802][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-00.11.18:102][850]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.18:103][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-00.11.18:502][850]LogSlate: Window 'WarehouseWreckage - Unreal Editor' being destroyed
+[2023.05.08-00.11.18:768][851]Cmd: QUIT_EDITOR
+[2023.05.08-00.11.18:768][851]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.08-00.11.18:824][851]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.08-00.11.18:824][851]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.05.08-00.11.18:826][851]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.05.08-00.11.18:828][851]LogWorld: UWorld::CleanupWorld for My_Minumal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.18:828][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-00.11.18:829][851]LogWorld: UWorld::CleanupWorld for My_Minumal_Default_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.18:829][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-00.11.18:830][851]LogWorld: UWorld::CleanupWorld for My_Minumal_Default_Auto2, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.18:830][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-00.11.18:830][851]LogWorld: UWorld::CleanupWorld for My_Minumal_Default_Auto3, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.18:830][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-00.11.18:831][851]LogWorld: UWorld::CleanupWorld for My_Minumal_Default_Auto4, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.18:831][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.08-00.11.19:030][851]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.05.08-00.11.19:118][851]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.05.08-00.11.19:725][851]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.08-00.11.19:725][851]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.08-00.11.19:726][851]LogAudio: Display: Audio Device unregistered from world 'My_Minumal_Default'.
+[2023.05.08-00.11.19:736][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.08-00.11.19:740][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.08-00.11.19:760][851]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.08-00.11.19:815][851]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.08-00.11.19:856][851]LogExit: Preparing to exit.
+[2023.05.08-00.11.20:474][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.05.08-00.11.20:525][851]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:525][851]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:529][851]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:530][851]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:530][851]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:530][851]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:530][851]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.20:531][851]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.08-00.11.22:029][851]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.22:032][851]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.22:034][851]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.22:037][851]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.22:040][851]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.22:042][851]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.08-00.11.22:370][851]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.05.08-00.11.22:513][851]LogExit: Editor shut down
+[2023.05.08-00.11.22:518][851]LogExit: Transaction tracking system shut down
