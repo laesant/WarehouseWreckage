@@ -5091,3 +5091,6 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.05.08-00.11.34:906][851]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
 [2023.05.08-00.11.34:906][851]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
 [2023.05.08-00.11.34:924][851]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.05.08-00.11.35:597][851]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.05.08-00.11.35:732][851]LogExit: Exiting.
+[2023.05.08-00.11.35:853][851]Log file closed, 05/07/23 21:11:35
