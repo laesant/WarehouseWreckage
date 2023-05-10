@@ -7,8 +7,9 @@
 			"files": [
 				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/Maps/My_Minumal_Default.umap",
-				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/StarterContent/Materials/BP_Projectile.uasset",
-				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset"
+				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/Maps/MainMap.umap",
+				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/StarterContent/Materials/BP_Projectile.uasset"
 			]
 		}
 	]
