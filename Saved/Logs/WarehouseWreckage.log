@@ -2717,3 +2717,11 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.11-01.19.25:646][996]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2023.05.11-01.19.25:646][996]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2023.05.11-01.19.25:646][996]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.11-01.19.29:007][996]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-01.19.29:012][996]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-01.19.29:016][996]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-01.19.29:020][996]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-01.19.29:023][996]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.11-01.19.29:397][996]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.05.11-01.19.29:599][996]LogExit: Editor shut down
+[2023.05.11-01.19.29:607][996]LogExit: Transaction tracking system shut down
