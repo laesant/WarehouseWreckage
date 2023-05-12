@@ -11,6 +11,7 @@
 				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/Maps/MainMap.umap",
 				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
 				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/Blueprints/BP_Barrel.uasset",
+				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/Blueprints/BP_Projectile.uasset",
 				"F:/LearnGameDev/Projects/WarehouseWreckage/Content/StarterContent/Materials/BP_Projectile.uasset"
 			]
 		}
